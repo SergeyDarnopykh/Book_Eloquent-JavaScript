@@ -1,37 +1,39 @@
 # Eloquent-JavaScript
 
+
 ## Part 1: Language
 
-### - [x] Introduction
-### - [x] Program Stucture
-### - [x] Functions
-    - [x] Looping a triangle
-    - [x] FizzBuzz
-    - [x] Chess board
 
-### - [x] Data Structures: Objects and Arrays
-### - [x] Higher-order Functions
-### - [x] The Secret Life of Objects
-### - [x] Project: Electronic Life
-### - [x] Bugs and Error Handling
-### - [x] Regular Expressions
-### - [x] Modules
-### - [x] Project: A Programming Language
+### Introduction
 
+### Program Stucture
+- [x] Looping a Triangle
+- [x] FizzBuzz
+- [x] Chess Board
 
-## Part 2: Browser
+### Functions
+- [x] Minimum
+- [x] Recursion
+- [x] Bean Counting
 
-### - [x] JavaScript and the Browser
-### - [x] The Document Object Model
-### - [x] Handling Events
-### - [x] Project: A Platform Game
-### - [x] Drawing on Canvas
-### - [x] HTTP
-### - [x] Forms and Form Fields
-### - [x] Project: A Paint Program
+### Data Structures: Objects and Arrays
+- [x] The Sum of a Range
+- [x] Reversing an Array
+- [x] A List
+- [x] Deep Comparison
 
+### Higher-order Functions
+- [x] Flattening
+- [x] Mother-child Age Difference
+- [x] Historical Life Expectancy
+- [x] Every and Then Some
 
-## Part 3: Node
+### The Secret Life of Objects
+- [x] A Vector Type
+- [ ] Another Cell
+- [ ] Sequence Interface
 
-### - [x] Node.js
-### - [x] Project: Skill-Sharing Website 
+### Project: Electronic Life
+- [ ] Artificial Stupidity 
+- [ ] Predators
+
