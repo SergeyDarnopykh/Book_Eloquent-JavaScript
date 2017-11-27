@@ -3,8 +3,9 @@
 
 ## Part 1: Language
 
-
 ### Introduction
+
+### Values, Types, and Operators
 
 ### Program Stucture
 - [x] Looping a Triangle
