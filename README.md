@@ -12,7 +12,7 @@
 - [ ] Bugs and Error
 - [ ] Regular Expressions
 - [ ] Modules
-- [] Asynchronous Programming
+- [ ] Asynchronous Programming
 - [ ] Project: A Programming Language
 
 ## Part 2: Browser
