@@ -1,12 +1,12 @@
 # Eloquent-JavaScript
 
 ## Part 1: Language
-- [x] Introduction
-- [x] Values, Types, and Operators
-- [x] Program Stucture
-- [x] Functions
-- [x] Data Structures: Objects and Arrays
-- [x] Higher-order Functions
+- [ ] Introduction
+- [ ] Values, Types, and Operators
+- [ ] Program Stucture
+- [ ] Functions
+- [ ] Data Structures: Objects and Arrays
+- [ ] Higher-order Functions
 - [ ] The Secret Life of Objects
 - [ ] Project: A Robot
 - [ ] Bugs and Error
