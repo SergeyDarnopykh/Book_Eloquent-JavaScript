@@ -8,10 +8,11 @@
 - [x] Data Structures: Objects and Arrays
 - [x] Higher-order Functions
 - [ ] The Secret Life of Objects
-- [ ] Project: Electronic Life
-- [ ] Bugs and Error Handling
+- [ ] Project: A Robot
+- [ ] Bugs and Error
 - [ ] Regular Expressions
 - [ ] Modules
+- [] Asynchronous Programming
 - [ ] Project: A Programming Language
 
 ## Part 2: Browser
@@ -22,7 +23,7 @@
 - [ ] Drawing on Canvas
 - [ ] HTTP
 - [ ] Forms and Form Fields
-- [ ] Project: A Paint Program
+- [ ] Project: A Pixel Art Editor
 
 ## Part 3: Node
 - [ ] Node.js
