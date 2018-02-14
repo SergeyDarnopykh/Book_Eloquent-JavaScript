@@ -3,7 +3,7 @@
 ## Part 1: Language
 - [x] Introduction
 - [x] Values, Types, and Operators
-- [ ] Program Stucture
+- [x] Program Stucture
 - [ ] Functions
 - [ ] Data Structures: Objects and Arrays
 - [ ] Higher-order Functions
