@@ -1,8 +1,8 @@
 # Eloquent-JavaScript
 
 ## Part 1: Language
-- [ ] Introduction
-- [ ] Values, Types, and Operators
+- [x] Introduction
+- [x] Values, Types, and Operators
 - [ ] Program Stucture
 - [ ] Functions
 - [ ] Data Structures: Objects and Arrays
