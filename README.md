@@ -4,7 +4,7 @@
 - [x] Introduction
 - [x] Values, Types, and Operators
 - [x] Program Stucture
-- [ ] Functions
+- [x] Functions
 - [ ] Data Structures: Objects and Arrays
 - [ ] Higher-order Functions
 - [ ] The Secret Life of Objects
