@@ -9,7 +9,7 @@
 - [x] Higher-order Functions
 - [x] The Secret Life of Objects
 - [x] Project: A Robot
-- [ ] Bugs and Error
+- [x] Bugs and Error
 - [ ] Regular Expressions
 - [ ] Modules
 - [ ] Asynchronous Programming
