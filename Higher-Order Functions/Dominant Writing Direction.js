@@ -16,6 +16,9 @@ function dominantDirection(text) {
 		return script ? script.direction : 'none';
 	}).filter(({ name }) => name !== 'none');
 
+	// Added later, I forgot about the empty array case
+	if (!script.length) return 'none';
+
 	return scripts.reduce((a, b) => {
 		return a.count > b.count ? a : b;
 	}, []).name;

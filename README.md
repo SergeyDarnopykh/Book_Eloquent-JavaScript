@@ -8,7 +8,7 @@
 - [x] Data Structures: Objects and Arrays
 - [x] Higher-order Functions
 - [x] The Secret Life of Objects
-- [ ] Project: A Robot
+- [x] Project: A Robot
 - [ ] Bugs and Error
 - [ ] Regular Expressions
 - [ ] Modules
