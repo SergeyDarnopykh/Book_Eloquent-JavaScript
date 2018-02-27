@@ -22,6 +22,7 @@ const box = {
 // is locked again before returning, regardless of whether 
 // the argument function returned normally or threw an exception.
 
+
 function withBoxUnlocked(body) {
 	const isBoxUnlocked = !box.locked;
 	try {
@@ -31,3 +32,20 @@ function withBoxUnlocked(body) {
 		isBoxUnlocked || box.lock();
 	}
 }
+
+
+// Author's code
+
+withBoxUnlocked(function() {
+  box.content.push("gold piece");
+});
+
+try {
+  withBoxUnlocked(function() {
+    throw new Error("Pirates on the horizon! Abort!");
+  });
+} catch (e) {
+  console.log("Error raised:", e);
+}
+console.log(box.locked);
+// → true
