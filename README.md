@@ -11,7 +11,7 @@
 - [x] Project: A Robot
 - [x] Bugs and Errors
 - [x] Regular Expressions
-- [ ] Modules
+- [x] Modules
 - [ ] Asynchronous Programming
 - [ ] Project: A Programming Language
 
